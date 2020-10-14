@@ -3,4 +3,14 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="mirojo">#EC0909</color>
+    <color name="naranjaa">#CD9F15</color>
+    <color name="azul">#1005AA</color>
+    <color name="gris">#8E8CA8</color>
+
+
+    <color name="calnaranja">#FF9800</color>
+    <color name="griscal">#6C6B77</color>
+    <color name="negrobajocal">#1D1D1E</color>
+    <color name="negrocal">#000000</color>
+
 </resources>
