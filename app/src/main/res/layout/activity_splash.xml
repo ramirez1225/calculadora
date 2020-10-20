@@ -7,15 +7,16 @@
     android:layout_height="match_parent"
     tools:context=".splash">
 
-    <Button
+    <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
-        android:text="HOLA"
-        android:id="@+id/btr"
+        android:text="5"
+        android:textSize="140dp"
+        android:id="@+id/txt"
         >
 
-    </Button>
+    </TextView>
 
 
 </RelativeLayout>
